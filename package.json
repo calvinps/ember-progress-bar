@@ -22,7 +22,7 @@
     "broccoli-funnel": "^1.0.1",
     "ember-cli-babel": "^6.6.0",
     "ember-cli-htmlbars": "^2.0.1",
-    "progressbar.js": "git://github.com/kimmobrunfeldt/progressbar.js.git#0978bd7a45c1e1fcc8cf9b0890caddb5362941f6"
+    "progressbar.js": "git://github.com/kimmobrunfeldt/progressbar.js.git#master"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
